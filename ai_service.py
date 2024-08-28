@@ -6,6 +6,7 @@ juego = Triqui()  # si se desea iniciar un juego nuevo hay que reiniciar el serv
 app = Flask(__name__)
 
 
+# IMPLEMENTATION OF MINIMAX ALGORITHM
 def minimax_search(juego, estado):
     pass
     value, move = min_value(juego, estado)
