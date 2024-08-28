@@ -12,3 +12,8 @@ node server.js
 ```
 
 then go to [localhost](http://localhost:3000) and you can start to play.
+
+## Demo
+
+https://github.com/user-attachments/assets/c37ebfac-79a2-47bd-8bdc-0e407fa95c5a
+
